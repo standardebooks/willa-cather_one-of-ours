@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/willa-cather/one-of-ours</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-07-03T18:45:52Z</dc:date>
+		<meta property="dcterms:modified">2021-07-03T18:45:52Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -50,17 +50,17 @@
 		<meta id="collection-1" property="belongs-to-collection">Pulitzer Prize Winners</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">5</meta>
-		<dc:description id="description">A young man struggles with finding his purpose in life until he volunteers for the Army in World War I.</dc:description>
+		<dc:description id="description">A young man struggles with finding his purpose in life until the breakout of World War I prompts him to volunteer for the Army.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Claude Wheeler is the son of a successful Nebraskan farmer and very devout mother. He’s in a private religious college because his mother feels it’s safer, but he yearns for State college where he might be able expand his knowledge of the real world. Claude doesn’t feel comfortable in any situation, and almost every step he takes is a wrong one. While he’s struggling to find his way in a questionable marriage, the U.S. decides to enter World War I, and Claude enlists. He’s commissioned as a lieutenant, and he and his outfit are deployed to France in the waning months of the war. There Claude finds the purpose he’s been missing his whole life.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;One of Ours&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/willa-cather"&gt;Cather&lt;/a&gt;’s first novel following the completion of her “Prairie Trilogy,” which she finished before the U.S. had entered the war. Cather’s cousin Grosvenor had grown up on the farm next to hers, had many of the traits she gave to Claude, and, like her protagonist, went with the Army to France towards the end of the war. After the war was over, she felt compelled to write something different than the novels she had become known for, saying that this one “stood between me and anything else.” Although not considered her best work, the novel won the Pulitzer Prize for Fiction in 1923.&lt;/p&gt;
+			&lt;p&gt;Claude Wheeler is the son of a successful Nebraskan farmer and a very devout mother. He’s sent to a private religious college because his mother feels it’s safer, but he yearns for State college where he might be able expand his knowledge of the real world. Claude doesn’t feel comfortable in any situation, and almost every step he takes is a wrong one. While he’s struggling to find his way in a questionable marriage, the U.S. decides to enter World War I, and Claude enlists. He’s commissioned as a lieutenant, and he and his outfit are deployed to France in the waning months of the war. There Claude finds the purpose he’s been missing his whole life.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;One of Ours&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/willa-cather"&gt;Cather&lt;/a&gt;’s first novel following the completion of her <a href="https://standardebooks.org/collections/prairie-trilogy">Prairie Trilogy</a>, which she finished before the U.S. had entered the war. Cather’s cousin Grosvenor had grown up on the farm next to hers, had many of the traits she gave to Claude, and, like her protagonist, went with the Army to France towards the end of the war. After the war was over, she felt compelled to write something different than the novels she had become known for, saying that this one “stood between me and anything else.” Although today it's not considered her best work, the novel won the Pulitzer Prize for Fiction in 1923.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2369</dc:source>
 		<dc:source>https://archive.org/details/oneofours00cathrich</dc:source>
 		<meta property="se:production-notes">The transcription was missing most diacritics, some regular italics, all foreign language italics, and all thematic breaks.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">128244</meta>
+		<meta property="se:reading-ease.flesch">81.02</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/One_of_Ours</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/willa-cather_one-of-ours</meta>
 		<dc:creator id="author">Willa Cather</dc:creator>
