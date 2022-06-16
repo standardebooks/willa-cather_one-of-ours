@@ -28,7 +28,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">One of Ours</dc:title>
 		<meta property="file-as" refines="#title">One of Ours</meta>
-		<meta property="se:alternate-title" refines="#title">1 of Ours</meta>
+		<meta property="dcterms:alternate" refines="#title">1 of Ours</meta>
 		<dc:subject id="subject-1">Nebraska -- Fiction</dc:subject>
 		<dc:subject id="subject-2">World War, 1914-1918 -- Fiction</dc:subject>
 		<dc:subject id="subject-3">War stories</dc:subject>
