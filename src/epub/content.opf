@@ -57,7 +57,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/2369</dc:source>
 		<dc:source>https://archive.org/details/oneofours00cathrich</dc:source>
 		<meta property="se:production-notes">The transcription was missing most diacritics, some regular italics, all foreign language italics, and all thematic breaks.</meta>
-		<meta property="se:word-count">128244</meta>
+		<meta property="se:word-count">128247</meta>
 		<meta property="se:reading-ease.flesch">81.02</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/One_of_Ours</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/willa-cather_one-of-ours</meta>
